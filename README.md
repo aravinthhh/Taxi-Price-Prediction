@@ -1,0 +1,1 @@
+This project focuses on predicting taxi fares using Simple Linear Regression (SLR). By analyzing trip-related features such as distance, time, and location, the model estimates fares more accurately, supporting better pricing strategies and operational efficiency.
